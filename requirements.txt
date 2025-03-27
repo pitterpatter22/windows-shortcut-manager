@@ -1,0 +1,4 @@
+keyboard
+pystray
+watchdog
+pillow
